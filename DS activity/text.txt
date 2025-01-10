@@ -1,0 +1,36 @@
+ShowName, Channel, AirTime
+Morning News, Channel 1, 06:00
+Tech Talk, Channel 2, 06:30
+Cartoon Hour, Channel 3, 07:00
+Morning Show, Channel 1, 07:30
+Fitness Time, Channel 4, 08:00
+Cooking Delights, Channel 2, 08:30
+Morning Weather, Channel 3, 09:00
+Music Hits, Channel 1, 09:30
+Movie Marathon, Channel 4, 10:00
+Science Hour, Channel 2, 10:30
+Adventure Travel, Channel 3, 11:00
+Sports Update, Channel 1, 11:30
+News Roundup, Channel 4, 12:00
+Midday Talk, Channel 2, 12:30
+Comedy Hour, Channel 3, 13:00
+Health Today, Channel 1, 13:30
+Tech Innovations, Channel 4, 14:00
+Drama Series, Channel 2, 14:30
+Prime Time Movie, Channel 3, 15:00
+Celebrity Gossip, Channel 1, 15:30
+Music Video Show, Channel 4, 16:00
+Talk Show, Channel 2, 16:30
+Fashion Focus, Channel 3, 17:00
+Evening News, Channel 1, 17:30
+Game Show, Channel 4, 18:00
+Late Night Show, Channel 2, 18:30
+Stand-up Comedy, Channel 3, 19:00
+Movie Night, Channel 1, 19:30
+Sports Highlights, Channel 4, 20:00
+Mystery Series, Channel 2, 20:30
+Music Hour, Channel 3, 21:00
+Documentary Time, Channel 1, 21:30
+Night News, Channel 4, 22:00
+Late Night Movie, Channel 2, 22:30
+All-Star Quiz, Channel 3, 23:00
