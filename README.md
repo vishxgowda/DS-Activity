@@ -18,7 +18,7 @@ This project is a simple C program that allows users to find the next three upco
 The repository contains the following files:
 
 - **project.c**: The C source code that implements the TV show scheduler.
-- **CS Report.pdf**: A detailed report that documents the project, including its features, implementation details, and design considerations.
+- **DS Report.pdf**: A detailed report that documents the project, including its features, implementation details, and design considerations.
 
 
 ## Input Data
